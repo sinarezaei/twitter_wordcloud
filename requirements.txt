@@ -1,0 +1,8 @@
+typing>=3.6.2
+farsi-tools>=0.2
+pytweets>=0.2
+arabic-reshaper>=2.0.15
+matplotlib>=3.1.0
+pillow>=6.1.0
+python-bidi>=0.4.0
+wordcloud>=1.5.0
